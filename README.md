@@ -1,6 +1,6 @@
 # Hackathon - Netflix Clone
 
-Hacking the Star Wars API
+Lets Build a netflix clone 🚀
 
 ## Rules of the hackathon
 
@@ -11,7 +11,7 @@ Hacking the Star Wars API
 
 ## :TODO
 
-1. create a mockups (20min) 
+1. create a mockups first (20min) 
 2. Homepage:
     - Header, content container and footer.
     - Layout should have cards on the homepage in a grid format.
