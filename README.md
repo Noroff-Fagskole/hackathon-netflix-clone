@@ -1,6 +1,8 @@
 # Hackathon - Netflix Clone
 
-Lets Build a netflix clone 🚀
+Lets Build a netflix clone 🚀 using the TVMAZE API 
+
+[TVMAZE](http://www.tvmaze.com/api)
 
 ## Rules of the hackathon
 
