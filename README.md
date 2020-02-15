@@ -2,7 +2,9 @@
 
 Lets Build a netflix clone 🚀 using the TVMAZE API 
 
-[TVMAZE](http://www.tvmaze.com/api)
+[TVMAZE](http://api.tvmaze.com/shows/1)
+
+Please hit the Shows endpoint.
 
 ## Rules of the hackathon
 
