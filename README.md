@@ -6,7 +6,11 @@ Lets Build a netflix clone 🚀 using the TVMAZE API
 
 Please hit the Schedule endpoint.
 
+GET ALL Shows:
 [SCHEDULE](http://api.tvmaze.com/schedule)
+
+GET ONE Show
+[One show](http://api.tvmaze.com/shows/1)
 
 
 ## Rules of the hackathon
