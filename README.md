@@ -3,7 +3,7 @@
 ## episode 1
 Lets Build a netflix clone 🚀 using the TVMAZE API 
 
-[TVMAZE Docs](http://api.tvmaze.com/api)
+[TVMAZE Docs](http://www.tvmaze.com/api)
 
 Please hit the Schedule endpoint.
 
