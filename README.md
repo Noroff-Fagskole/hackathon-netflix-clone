@@ -1,5 +1,6 @@
 # Hackathon - Netflix Clone
 
+## episode 1
 Lets Build a netflix clone 🚀 using the TVMAZE API 
 
 [TVMAZE Docs](http://api.tvmaze.com/api)
@@ -13,14 +14,14 @@ GET ONE Show
 [One show](http://api.tvmaze.com/shows/1)
 
 
-## Rules of the hackathon
+### Rules of the hackathon
 
 1. Work in pairs
 2. minimal assistance will be provided from tutors as it's a hackathon
 3. be creative
 4. have fun
 
-## :TODO
+### :TODO
 
 1. create a mockups first (20min) 
 2. Homepage:
@@ -35,3 +36,8 @@ GET ONE Show
     - Name, Email, Telephone number
     - Validate the form, show the user error messages.
     - use regex.
+    
+    
+## episode 2
+
+Coming soon
