@@ -3,8 +3,11 @@
 ## episode 1
 Lets Build a netflix clone 🚀 using the TVMAZE API 
 
+## API
+
 [TVMAZE Docs](http://www.tvmaze.com/api)
 
+### Endpoints
 Please hit the Schedule endpoint.
 
 GET ALL Shows:
@@ -12,7 +15,6 @@ GET ALL Shows:
 
 GET ONE Show
 [One show](http://api.tvmaze.com/shows/1)
-
 
 ### Rules of the hackathon
 
