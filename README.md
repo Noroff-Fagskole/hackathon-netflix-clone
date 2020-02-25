@@ -23,6 +23,8 @@ GET ONE Show
 
 ### :TODO
 
+Fork Repo first, then clone it and get going !
+
 1. create a mockups first (20min) 
 2. Homepage:
     - Header, content container and footer.
