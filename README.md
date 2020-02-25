@@ -16,14 +16,14 @@ GET ALL Shows:
 GET ONE Show
 [One show](http://api.tvmaze.com/shows/1)
 
-### Rules of the hackathon
+## Rules of the hackathon
 
 1. Work in pairs
 2. minimal assistance will be provided from tutors as it's a hackathon
 3. be creative
 4. have fun
 
-### :TODO
+## :TODO
 
 Fork Repo first, then clone it and get going !
 
@@ -42,6 +42,6 @@ Fork Repo first, then clone it and get going !
     - use regex.
     
     
-## episode 2
+# episode 2
 
 Coming soon
