@@ -10,11 +10,10 @@ Lets Build a netflix clone 🚀 using the TVMAZE API
 ### Endpoints
 Please hit the Schedule endpoint.
 
-GET ALL Shows:
-[SCHEDULE](http://api.tvmaze.com/schedule)
-
-GET ONE Show
-[One show](http://api.tvmaze.com/shows/1)
+Request | End point | 
+---------|----------|---------
+ Schedule | [SCHEDULE](http://api.tvmaze.com/schedule)
+ One tv show | [One show](http://api.tvmaze.com/shows/1)
 
 ## Rules of the hackathon
 
@@ -44,9 +43,27 @@ Fork Repo first, then clone it and get going !
     
 # episode 2
 
+1. Build an interactive TV Show details page, following this wireframe Netflix-clone-tv-show-page-wireframes.xd available in repository.
+2. Update homepage styles to look more polished than it was when you finished episode 1.
 
-Show | End point | 
+You will make use of these endpoints:
+
+Request | End point | 
 ---------|----------|---------
  Episodes | [api.tvmaze.com/shows/1/episodes](http://api.tvmaze.com/shows/1/episodes)
 Seasons | [api.tvmaze.com/shows/1/seasons](http://api.tvmaze.com/shows/1/seasons) |
  Cast | [api.tvmaze.com/shows/1/cast](http://api.tvmaze.com/shows/1/cast)
+
+You may use vanilla CSS or CSS Framework of your choosing. You are not allowed to use any JavaScript from these frameworks.
+
+1. [Vanilla CSS](https://www.w3.org/Style/CSS/specs.en.html)
+2. [Bulma](https://bulma.io/)
+3. [Tailwind](https://tailwindcss.com/)
+4. [Bootstrap](https://getbootstrap.com/)
+5. [Zurb Foundation](https://get.foundation/)
+6. [Semantic UI](https://semantic-ui.com/)
+
+You decide.
+
+Have fun... it is okay if you do not "finish" we carry on next time.
+
