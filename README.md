@@ -48,6 +48,7 @@ Request | End point |
 
 1. Build/Update the interactive TV Show details page. It must follow this wireframe `Netflix-clone-tv-show-page-wireframes.xd` available in repository.
 2. Update homepage styles to look more polished than it was when you finished episode 1.
+3. deploy your site using github pages: [https://pages.github.com/](https://pages.github.com/)
 
 ### Endpoints
 
