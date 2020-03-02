@@ -1,19 +1,10 @@
 # Hackathon - Netflix Clone
 
-## episode 1
-Lets Build a netflix clone 🚀 using the TVMAZE API 
+> Lets Build a netflix clone 🚀 using the [TVMAZE API](http://www.tvmaze.com/api).
 
 ## API
 
 [TVMAZE Docs](http://www.tvmaze.com/api)
-
-### Endpoints
-Please hit the Schedule endpoint.
-
-Request | End point | 
----------|----------|
- Schedule | [SCHEDULE](http://api.tvmaze.com/schedule) |
- One tv show | [One show](http://api.tvmaze.com/shows/1) |
 
 ## Rules of the hackathon
 
@@ -22,7 +13,9 @@ Request | End point |
 3. be creative
 4. have fun
 
-## :TODO
+# episode 1
+
+### :TODO
 
 Fork Repo first, then clone it and get going !
 
@@ -40,13 +33,25 @@ Fork Repo first, then clone it and get going !
     - Validate the form, show the user error messages.
     - use regex.
     
-    
+### Endpoints
+
+You will make use of these endpoints.
+
+Request | End point | 
+---------|----------|
+ Schedule | [SCHEDULE](http://api.tvmaze.com/schedule) |
+ One tv show | [One show](http://api.tvmaze.com/shows/1) |
+
 # episode 2
 
-1. Build an interactive TV Show details page, following this wireframe `Netflix-clone-tv-show-page-wireframes.xd` available in repository.
+### :TODO
+
+1. Build/Update the interactive TV Show details page. It must follow this wireframe `Netflix-clone-tv-show-page-wireframes.xd` available in repository.
 2. Update homepage styles to look more polished than it was when you finished episode 1.
 
-You will make use of these endpoints:
+### Endpoints
+
+You will make use of these endpoints.
 
 Request | End point | 
 ---------|----------|
@@ -64,6 +69,3 @@ You may use vanilla CSS or CSS Framework of your choosing. You are not allowed t
 6. [Semantic UI](https://semantic-ui.com/)
 
 You decide.
-
-Have fun... it is okay if you do not "finish" we carry on next time.
-
