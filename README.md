@@ -44,4 +44,9 @@ Fork Repo first, then clone it and get going !
     
 # episode 2
 
-Coming soon
+
+Show | End point | 
+---------|----------|---------
+ Episodes | [api.tvmaze.com/shows/1/episodes](http://api.tvmaze.com/shows/1/episodes)
+Seasons | [api.tvmaze.com/shows/1/seasons](http://api.tvmaze.com/shows/1/seasons) |
+ Cast | [api.tvmaze.com/shows/1/cast](http://api.tvmaze.com/shows/1/cast)
