@@ -43,7 +43,7 @@ Fork Repo first, then clone it and get going !
     
 # episode 2
 
-1. Build an interactive TV Show details page, following this wireframe Netflix-clone-tv-show-page-wireframes.xd available in repository.
+1. Build an interactive TV Show details page, following this wireframe `Netflix-clone-tv-show-page-wireframes.xd` available in repository.
 2. Update homepage styles to look more polished than it was when you finished episode 1.
 
 You will make use of these endpoints:
