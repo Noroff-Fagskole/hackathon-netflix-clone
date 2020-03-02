@@ -11,9 +11,9 @@ Lets Build a netflix clone 🚀 using the TVMAZE API
 Please hit the Schedule endpoint.
 
 Request | End point | 
----------|----------|---------
- Schedule | [SCHEDULE](http://api.tvmaze.com/schedule)
- One tv show | [One show](http://api.tvmaze.com/shows/1)
+---------|----------|
+ Schedule | [SCHEDULE](http://api.tvmaze.com/schedule) |
+ One tv show | [One show](http://api.tvmaze.com/shows/1) |
 
 ## Rules of the hackathon
 
@@ -49,10 +49,10 @@ Fork Repo first, then clone it and get going !
 You will make use of these endpoints:
 
 Request | End point | 
----------|----------|---------
- Episodes | [api.tvmaze.com/shows/1/episodes](http://api.tvmaze.com/shows/1/episodes)
+---------|----------|
+ Episodes | [api.tvmaze.com/shows/1/episodes](http://api.tvmaze.com/shows/1/episodes) |
 Seasons | [api.tvmaze.com/shows/1/seasons](http://api.tvmaze.com/shows/1/seasons) |
- Cast | [api.tvmaze.com/shows/1/cast](http://api.tvmaze.com/shows/1/cast)
+ Cast | [api.tvmaze.com/shows/1/cast](http://api.tvmaze.com/shows/1/cast) |
 
 You may use vanilla CSS or CSS Framework of your choosing. You are not allowed to use any JavaScript from these frameworks.
 
