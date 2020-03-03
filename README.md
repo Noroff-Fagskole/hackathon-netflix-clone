@@ -39,7 +39,8 @@ You will make use of these endpoints.
 
 Request | End point | 
 ---------|----------|
- Schedule | [SCHEDULE](http://api.tvmaze.com/schedule) |
+Shows | [http://api.tvmaze.com/shows](http://api.tvmaze.com/shows) |
+ Schedule | [Schedule](http://api.tvmaze.com/schedule) |
  One tv show | [One show](http://api.tvmaze.com/shows/1) |
 
 # episode 2
@@ -56,6 +57,7 @@ You will make use of these endpoints.
 
 Request | End point | 
 ---------|----------|
+Shows | [http://api.tvmaze.com/shows](http://api.tvmaze.com/shows) |
  Episodes | [api.tvmaze.com/shows/1/episodes](http://api.tvmaze.com/shows/1/episodes) |
 Seasons | [api.tvmaze.com/shows/1/seasons](http://api.tvmaze.com/shows/1/seasons) |
  Cast | [api.tvmaze.com/shows/1/cast](http://api.tvmaze.com/shows/1/cast) |
